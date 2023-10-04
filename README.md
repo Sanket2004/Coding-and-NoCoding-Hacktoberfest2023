@@ -1,4 +1,4 @@
-# Coding-and-NoCoding-Hacktberfest2023
+# Coding-and-NoCoding-Hacktoberfest2023
 Repository totally dedicated to Hacktoberfest 2023, feel free to contribute. Topics hacktoberfest hacktoberfest-accepted hacktoberfest2023
 
 # Hacktoberfest2023
