@@ -1,0 +1,8 @@
+Artificial intelligence (AI) is truly a revolutionary feat of computer science, set to become a core component of all modern software over the coming years and decades. This presents a threat but also an opportunity. AI will be deployed to augment both defensive and offensive cyber operations. Additionally, new means of cyber attack will be invented to take advantage of the particular weaknesses of AI technology. Finally, the importance of data will be amplified by AI’s appetite for large amounts of training data, redefining how we must think about data protection. Prudent governance at the global level will be essential to ensure that this era-defining technology will bring about broadly shared safety and prosperity.
+
+
+AI vs Big data
+
+In general terms, AI refers to computational tools that are able to substitute for human intelligence in the performance of certain tasks. This technology is currently advancing at a breakneck pace, much like the exponential growth experienced by database technology in the late twentieth century. Databases have grown to become the core infrastructure that drives enterprise-level software. Similarly, most of the new value added from software over the coming decades is expected to be driven, at least in part, by AI.
+
+Within the last decade, databases have evolved significantly in order to handle the new phenomenon dubbed “big data.” This refers to the unprecedented size and global scale of modern data sets, largely gathered from the computer systems that have come to mediate nearly every aspect of daily life. For instance, YouTube receives over 400 hours of video content each minute (Brouwer 2015).
