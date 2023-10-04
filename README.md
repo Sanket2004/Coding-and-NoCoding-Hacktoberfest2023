@@ -1,5 +1,7 @@
 # Coding-and-NoCoding-Hacktoberfest2023
-Repository totally dedicated to Hacktoberfest 2023, feel free to contribute. Topics hacktoberfest hacktoberfest-accepted hacktoberfest2023
+Repository totally dedicated to Hacktoberfest 2023, feel free to contribute. 
+
+# Please Refer to CONTRIBUTING.md file for the topics and Guidelines
 
 # Hacktoberfest2023
 
@@ -22,13 +24,9 @@ Choose both, make a pull request for your work and wait for it to be merged!!
 git clone https://github.com/joyjeetcoding/Coding-problems-Hacktoberfest2023.git
 ```
 
-* Create a branch
+* Create a folder and apply your contribution
 
-```markdown
-git checkout -b your-branch-name
-```
-
-* Make your changes in "Python/C/C++/Java" folder.
+* Make your changes in "Blogs or any other name which suits your contribution" folder.
 * Commit and push your code.
 
 
