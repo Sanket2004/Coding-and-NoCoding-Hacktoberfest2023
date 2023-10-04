@@ -1,7 +1,7 @@
 # Coding-and-NoCoding-Hacktoberfest2023
 Repository totally dedicated to Hacktoberfest 2023, feel free to contribute. 
 
-# Please Refer to CONTRIBUTING.md file for the topics and Guidelines
+* Read the below Getting Started Points and then goto CONTRIBUTING.md for the guidelines
 
 # Hacktoberfest2023
 
