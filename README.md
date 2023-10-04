@@ -34,5 +34,4 @@ git clone https://github.com/joyjeetcoding/Coding-problems-Hacktoberfest2023.git
 * Wait for your PR review and merge approval...
 * __Star this repository__ if you had fun contributing!
 
-## A BIG Thanks To Our Contributors :handshake: :handshake:
 
